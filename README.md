@@ -1,0 +1,2 @@
+# rusty
+Notes on Rust
