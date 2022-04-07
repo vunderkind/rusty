@@ -5,7 +5,11 @@ fn main() {
     // Booleans
     // Characters
 
-    let mut number:u8 = 256;
+    let number:u8 = 258;
 
     println!("Number is: {}!", number);
+
+    // Floating point precision
+    let x = 2.0; // f64
+    let y:f32 = 3.0; // f32
 }
