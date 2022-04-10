@@ -22,4 +22,6 @@ fn main() {
     let arr:[i32;5] = [1, 2, 3, 4, 5];
 
     println!("The value of arr[0] is: {}", arr[0]);
+
+    // Next up: borrowing
 }
