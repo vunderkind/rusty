@@ -24,4 +24,13 @@ fn main() {
     println!("The value of arr[0] is: {}", arr[0]);
 
     // Next up: borrowing
+
+    let s = String::from("hello world");
+
+    print_x(s);
+    println!("The value of s is: {}", s);
+}
+
+fn print_x(s:String) {
+    println!("The value of s is: {}", s);
 }
