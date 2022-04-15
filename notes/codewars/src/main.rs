@@ -3,6 +3,7 @@ fn main() {
 }
 
 // a function that takes a string and returns a greeting
+// has to return it in title case
 fn hello(name: &str) -> String {
     if name.len()>0 {
         let new_name = String::from(name).to_uppercase();
