@@ -16,3 +16,12 @@ fn hello(name: &str) -> String {
         return String::from("Hello, World!")
         }
 }
+
+// Given a non-empty array of integers, return the result of multiplying the values together in order.
+fn grow(nums: Vec<i32>) -> i32 {
+    let mut tally = 1;
+    for (_,j) in nums.iter().enumerate() {
+        tally = tally * j
+    }
+    return tally
+}
