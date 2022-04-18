@@ -1,5 +1,20 @@
+// Area of a rect amirite
+struct Rectangle {
+    width: u32,
+    height: u32,
+}
+
+impl Rectangle {
+    fn area(&self) -> u32 {
+        self.width * self.height
+    }
+}
+
 fn main() {
     println!("Hello, world!");
+
+    let r = Rectangle { width: 10, height: 20 };
+    println!("Area of r is: {}", r.area());
 }
 
 // a function that takes a string and returns a greeting
