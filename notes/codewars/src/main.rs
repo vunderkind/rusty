@@ -15,8 +15,8 @@ fn main() {
 
     let r = Rectangle { width: 10, height: 20 };
     // println!("Area of r is: {}", r.area());
-    let james = "Hello world"
-    return james.split_whitespace()
+    let james = "Hello world";
+    println!("{:?}", james.split_whitespace())
 }
 
 // a function that takes a string and returns a greeting
