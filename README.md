@@ -1,5 +1,4 @@
-# rusty
-Notes on Rust
+# Rust by Example
+A collection of short Rust examples written by hand to get the hang of this language.
 
-## Includes:
-- Notes on Borrowing and Owning [found in the borrowing_and_owing folder]
+Repository is WIP, and will include helpful notes for clarifying some things.
