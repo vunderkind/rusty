@@ -15,4 +15,13 @@ fn main() {
     let kobo = Coin::Kobo;
     println!("The value of 1 naira is: {} kobo", coin_match(&coin));
     println!("The value of 100 kobo is: {} naira", coin_match(&kobo));
+
+    plus_one(Some(4));
+}
+
+fn plus_one(x: Option<i32>) -> Option<i32> {
+    match x {
+        None => None,
+        Some(i) => Some(i + 1),
+    }
 }

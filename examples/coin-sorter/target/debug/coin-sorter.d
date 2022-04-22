@@ -1,1 +1,1 @@
-/Users/mac/Documents/work/Sideprojects/rusty/by-example/coin-sorter/target/debug/coin-sorter: /Users/mac/Documents/work/Sideprojects/rusty/by-example/coin-sorter/src/main.rs
+/Users/mac/Documents/work/Sideprojects/rusty/examples/coin-sorter/target/debug/coin-sorter: /Users/mac/Documents/work/Sideprojects/rusty/examples/coin-sorter/src/main.rs
