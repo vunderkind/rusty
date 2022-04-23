@@ -1,0 +1,1 @@
+/Users/mac/Documents/work/Sideprojects/rusty/examples/random-number-generator/target/debug/random-number-generator: /Users/mac/Documents/work/Sideprojects/rusty/examples/random-number-generator/src/main.rs
