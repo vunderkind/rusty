@@ -3,6 +3,8 @@ mod front_of_house {
         pub fn add_to_waitlist() {}
 
         fn seat_at_table() {}
+
+        let v: Vec<i32> = Vec::new();
     }
 
     mod serving {
