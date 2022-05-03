@@ -5,6 +5,7 @@ mod front_of_house {
         fn seat_at_table() {}
 
         let v: Vec<i32> = Vec::new();
+        let w: Vec<i32> = Vec::new();
     }
 
     mod serving {
