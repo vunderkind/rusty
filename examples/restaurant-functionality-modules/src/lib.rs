@@ -6,6 +6,7 @@ mod front_of_house {
 
         let v: Vec<i32> = Vec::new();
         let w: Vec<i32> = Vec::new();
+        let x: Vec<i32> = Vec::new();
     }
 
     mod serving {
