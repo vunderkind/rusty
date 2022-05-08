@@ -1,0 +1,10 @@
+/Users/mac/Documents/work/Sideprojects/rusty/gm-program/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-2e5a5872ea0c671c.rmeta: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_digester.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_example.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/hash.rs
+
+/Users/mac/Documents/work/Sideprojects/rusty/gm-program/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-2e5a5872ea0c671c.rlib: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_digester.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_example.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/hash.rs
+
+/Users/mac/Documents/work/Sideprojects/rusty/gm-program/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-2e5a5872ea0c671c.d: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_digester.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_example.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/hash.rs
+
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/lib.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_digester.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_example.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/hash.rs:
